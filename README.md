@@ -18,5 +18,4 @@
 
 - Desenvolvedor Sergio Zanucci.
 
-- ![Alt text](<Document - Google Chrome 11_12_2023 16_54_16.png>)>
 ![Document - Google Chrome 11_12_2023 16_54_16](https://github.com/SergioZanucci/Escola-do-Trabalhador-4.0/assets/102690327/0f404d4d-fca6-4db6-b2ac-723c4c4edd61)
