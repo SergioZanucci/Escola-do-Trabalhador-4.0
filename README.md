@@ -18,4 +18,4 @@
 
 - Desenvolvedor Sergio Zanucci.
 
-- (<Document - Google Chrome 11_12_2023 16_54_16.png>)>
+- ![Alt text](<Document - Google Chrome 11_12_2023 16_54_16.png>)>
